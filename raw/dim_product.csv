@@ -1,0 +1,4 @@
+product_id,product_category,product_name,product_unit_price,product_uom,cost
+1,coffee,flat white,4.5,cup,1.4
+2,tea,just tea,4,cup,0.9
+3,coffee,long black,4.5,cup,1
